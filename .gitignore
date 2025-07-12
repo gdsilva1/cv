@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Misc
+gabriel_CV_mobile.yaml
+gabriel_CV_pc.yaml
+gabriel_CV.yaml

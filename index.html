@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gabriel Duarte | CV</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+      crossorigin="anonymous"
+    />
+    <style>
+      .floating-button {
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+        padding: 15px 15px;
+        z-index: 100; /* Garante que o botão fique sobre outros elementos */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="d-flex flex-column align-items-center justify-content-center">
+      <img
+        src="mobile/Gabriel_D._Silva_CV_1.png"
+        alt="Currículo"
+        class="w-100 d-block d-sm-none"
+      >
+      <img
+        src="mobile/Gabriel_D._Silva_CV_2.png"
+        alt="Currículo"
+        class="w-100 d-block d-sm-none"
+      >
+      <img
+        src="pc/Gabriel_D._Silva_CV_1.png"
+        alt="Currículo"
+        class="d-none d-sm-block"
+        style="max-width: 800px; height: auto;"
+      >
+    </div>
+
+
+    <div class="d-flex flex-column align-items-center justify-content-center">
+      <div>
+        <div
+          class="btn-group flex-column flex-md-row floating-button"
+          role="group"
+          aria-label="Basic example"
+        >
+          <!-- <button
+            id="prev-page"
+            class="btn btn-dark btn-lg w-100"
+            data-bs-toggle="tooltip"
+            data-bs-title="Página Anterior"
+          >
+            <span class="bi bi-chevron-left"></span>
+          </button>
+          <button
+            id="next-page"
+            class="btn btn-dark btn-lg"
+            data-bs-toggle="tooltip"
+            data-bs-title="Página Seguinte"
+          >
+            <span class="bi bi-chevron-right"></span>
+          </button> -->
+          <a
+            href="doc/Gabriel_D._Silva_CV.pdf"
+            download
+            class="btn btn-success btn-lg w-100 d-flex"
+          >
+            <span class="bi bi-download me-2"></span>
+            <span">Baixar PDF</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js"
+      integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
