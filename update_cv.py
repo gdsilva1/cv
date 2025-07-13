@@ -27,7 +27,7 @@ def main():
                 IMAGE_RELATIVE_PATH = f"{format}/{file}"
 
                 img = Image.open(IMAGE_RELATIVE_PATH)
-                img = img.crop((1400, 200, 3600, 6800))
+                img = img.crop((1400, 225, 3600, 6800))
                 img.save(IMAGE_RELATIVE_PATH)
 
 
