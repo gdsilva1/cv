@@ -537,7 +537,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Gerente da Vice-Presidência]
+    #strong[Assessor da Vice-Presidência]
 
 #emph[Precisão Engenharia]
   ],

@@ -36,7 +36,7 @@
 - Detalhamento de peças
 - Acompanhamento de produção das peças
 
-## Precisão Engenharia, Gerente da Vice-Presidência
+## Precisão Engenharia, Assessor da Vice-Presidência
 
 - Mar 2020 – Mar 2021
 - Ilha Solteira, SP, Brazil
