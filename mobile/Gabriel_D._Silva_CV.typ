@@ -601,7 +601,7 @@
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A pesquisa visa obter um modelo de rede neural artificial \(ANN\) para prever as forças a serem aplicadas em VANTs \(Veículos Aéreos Não Tripulados\) baseado na trajetória a ser percorrida. O projeto consistiu em treinar ANNs com um conjunto de amostras para prever as forças aplicadas no UAV, avaliando a capacidade das redes em acompanhar a trajetória desejada. Os resultados mostraram que, mesmo com uma arquitetura básica e poucos dados, as ANNs conseguiram predizer padrões satisfatórios de força, contribuindo para o controle efetivo do voo, podendo auxiliar no desenvolvimento de sistemas de voos autônomos.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de Sistemas],[Dinâmica Veicular],[Engenharia Reversa],[Resolução de Acidentes de Trânsito],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de redes neurais artificiais],[Técnicas de machine learning],[Controle de VANTs],[Programação em Python com ênfase em ciência de dados],)
   ],
   right-content: [
     #emph[Ilha Solteira, SP]
@@ -618,7 +618,7 @@
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A pesquisa é parte de uma demanda da Polícia Científica do Estado de São Paulo,com foco em verificar a capacidade de se determinar a velocidade de tráfego de veículos a partirde informações que podem ser coletadas por peritos após a colisão. A modelagem emprega umaabordagem Newtoniana, considerando a conservação de momento linear. A velocidade de tráfego éescrita em termos de características dos veículos, da desaceleração em função das forças de frenagem,e das distâncias percorridas. Simulações computacionais foram realizadas para calcular a velocidade detráfego de automóveis após a colisão, considerando a influência de incertezas.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de Redes Neurais],[Técnicas de Machine Learning],[Controle de VANTs],[Programação em Python com ênfase em ciência de dados],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de Sistemas],[Dinâmica Veicular],[Engenharia Reversa],[Resolução de Acidentes de Trânsito],)
   ],
   right-content: [
     #emph[Ilha Solteira]
@@ -633,7 +633,11 @@
 
 
 #one-col-entry(
-  content: [#strong[Programação:] Proficiência em Python, com análise\/ciência de dados \(Pandas, Scikit-Learn, PyTorch, Dash Plotly\) e desenvolvimento web \(Django\); bom entendimento de Linux e Git]
+  content: [#strong[Programação:] Proficiência em Python, com análise\/ciência de dados \(Pandas, Scikit-Learn, PyTorch, Dash Plotly\) e desenvolvimento web \(Django\); ótimo entendimento de Linux e Git]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Ferramentas de produtividade:] ótimo conhecimeto em ferramentas Office \(Office 365 e LibreOffice\), proficiente em LaTeX para produção de relatórios e documentos científicos]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

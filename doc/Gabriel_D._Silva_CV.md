@@ -70,22 +70,23 @@
 
 - Abr 2023 – Set 2023
 - Ilha Solteira, SP
-- Modelagem de Sistemas
-- Dinâmica Veicular
-- Engenharia Reversa
-- Resolução de Acidentes de Trânsito
+- Modelagem de redes neurais artificiais
+- Técnicas de machine learning
+- Controle de VANTs
+- Programação em Python com ênfase em ciência de dados
 
 ## Determinação da Velocidade de Tráfego após Colisão de Automóveis: Influência dos Parâmetros
 
 - Set 2021 – Set 2022
 - Ilha Solteira
-- Modelagem de Redes Neurais
-- Técnicas de Machine Learning
-- Controle de VANTs
-- Programação em Python com ênfase em ciência de dados
+- Modelagem de Sistemas
+- Dinâmica Veicular
+- Engenharia Reversa
+- Resolução de Acidentes de Trânsito
 
 # Habilidades
 
-- Programação: Proficiência em Python, com análise/ciência de dados (Pandas, Scikit-Learn, PyTorch, Dash Plotly) e desenvolvimento web (Django); bom entendimento de Linux e Git.
+- Programação: Proficiência em Python, com análise/ciência de dados (Pandas, Scikit-Learn, PyTorch, Dash Plotly) e desenvolvimento web (Django); ótimo entendimento de Linux e Git.
+- Ferramentas de produtividade: ótimo conhecimeto em ferramentas Office (Office 365 e LibreOffice), proficiente em LaTeX para produção de relatórios e documentos científicos.
 - Engenharia: Bom entendimento de ferramentas CAD 3D e workflow com simulações de CFD (geração de malha, pré e pós processamento); bom entendimento de softwares de fluidodinâmica computacional (OpenFOAM)
 - Idiomas: Inglês (C1), Português (nativo)
