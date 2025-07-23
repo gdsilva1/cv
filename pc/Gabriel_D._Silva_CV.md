@@ -19,7 +19,7 @@
 ## Embraer SA, Estagiário de Manutenção Industrial
 
 - Jan 2024 – hoje
-- Botucatu, SP, Brazil
+- Botucatu, SP, Brasil
 - Gestão de contratos
 - Implantação de contratos
 - Análise de dados de manutenção
@@ -31,7 +31,7 @@
 ## IRBI Máquinas e Equipamentos, Estagiário de Projetos de Máquinas
 
 - Jan 2023 – Fev 2023
-- Araçatuba, SP, Brazil
+- Araçatuba, SP, Brasil
 - Modelagem 3D
 - Detalhamento de peças
 - Acompanhamento de produção das peças
@@ -39,7 +39,7 @@
 ## Precisão Engenharia, Assessor da Vice-Presidência
 
 - Mar 2020 – Mar 2021
-- Ilha Solteira, SP, Brazil
+- Ilha Solteira, SP, Brasil
 - Operações financeiras e jurídicas
 - Operações de Recursos Humanos
 - Desenvolvimento de processos seletivos

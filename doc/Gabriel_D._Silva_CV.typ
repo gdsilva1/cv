@@ -500,7 +500,7 @@
 #emph[Embraer SA]
   ],
   right-content: [
-    #emph[Botucatu, SP, Brazil]
+    #emph[Botucatu, SP, Brasil]
 
 #emph[Jan 2024 – hoje]
   ],
@@ -521,7 +521,7 @@
 #emph[IRBI Máquinas e Equipamentos]
   ],
   right-content: [
-    #emph[Araçatuba, SP, Brazil]
+    #emph[Araçatuba, SP, Brasil]
 
 #emph[Jan 2023 – Fev 2023]
   ],
@@ -542,7 +542,7 @@
 #emph[Precisão Engenharia]
   ],
   right-content: [
-    #emph[Ilha Solteira, SP, Brazil]
+    #emph[Ilha Solteira, SP, Brasil]
 
 #emph[Mar 2020 – Mar 2021]
   ],
