@@ -497,9 +497,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Estágio de férias realizado em uma empresa metalúrgica. O principal produto desenvolvido pela empresa é a sonda oblíqua, usada para coletar amostras de cana-de-açúcar. Atuei no time de engenharia com detalhamentos e modelagem de peças referente aos projetos  de sondas, esteiras, desintegradores e outros produtos.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Realizei adequações de projetos para clientes, desde a concepção, detalhamento e acompanhamento da produção.],)
+    #v(design-highlights-top-margin);#highlights([Realizei adequações de projetos para clientes, desde a concepção, detalhamento e acompanhamento da produção.],)
   ],
 )
 
@@ -518,9 +516,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A empresa tem como objetivo não só ter um primeiro contato com o mundo empresarial, mas também despertar o desejo de empreender nos membros. As atuações principais eram a venda de serviços de engenharia mecânica, como projetos mecânicos, PMOC, ensaios, etc. Atuei principalmente nas áreas administrativas e jurídicas da empresa.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Participei do desenvolvimento do processo seletivo do ano de 2020, em conjunto com a equipe de Gestão de Pessoas.],[Elaborei documentos referentes à área jurídica e financeira.],)
+    #v(design-highlights-top-margin);#highlights([Participei do desenvolvimento do processo seletivo do ano de 2020, em conjunto com a equipe de Gestão de Pessoas.],[Elaborei documentos referentes à área jurídica e financeira.],)
   ],
 )
 
