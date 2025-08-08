@@ -3,7 +3,7 @@
 
 #let name = "Gabriel D. Silva"
 #let locale-catalog-page-numbering-style = context { "Gabriel D. Silva - Página " + str(here().page()) + " de " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Atualizado em Jul 2025"
+#let locale-catalog-last-updated-date-style = "Atualizado em Ago 2025"
 #let locale-catalog-language = "pt"
 #let design-page-size = "a4"
 #let design-section-titles-font-size = 1.4em
@@ -461,35 +461,6 @@
 
 
 
-== Educação
-
-
-// YES DATE, NO DEGREE
-#two-col-entry(
-  left-content: [
-    #strong[Universidade Estadual Paulista \(UNESP\)]
-
-#emph[Bacharelado em Engenharia Mecânica]
-  ],
-  right-content: [
-    #emph[Ilha Solteira, SP, Brasil]
-
-#emph[Ago 2018 – hoje]
-  ],
-)
-#block(
-  [
-    #set par(spacing: 0pt)
-    
-  ],
-  inset: (
-    left: design-entries-left-and-right-margin,
-    right: design-entries-left-and-right-margin,
-  ),
-)
-
-
-
 == Experiência
 
 
@@ -507,9 +478,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Atuação corporativa em todas as unidades Brasil da Embraer na área de manutenção industrial. A área é responsável pela manutenção predial e dos sistemas vitais das fábricas. Auxiliei em todas as atividades da área, desde acompanhamento de atividades em campo, análise de dados para melhorias estratégicas na área, geração de relatórios, atuação conjunta com a área fiscal, etc.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Gestão de contratos],[Implantação de contratos],[Análise de dados de manutenção],[Visualização de dados \(dashboards\)],[Automatização de processos com Python \(RPAs\)],[Desenvolvimento de aplicativos web para gestão interna \(Django e Dash Plotly\)],[Desenvolvimento de métricas de KPIs de Manutenção],)
+    #v(design-highlights-top-margin);#highlights([Elaborei o dashboard de controle e visibilidade da implantação dos contratos de manutenção.],[Mapeei ações necessárias para implantação de contratos; esta ação desdobrou em um checklist completo para controle da implantação dos contratos.],[Participei estrategicamente na definição das métricas utilizadas na manutenção.],[Desenvolvi automatizações no SAP que permitiram a economia de mais de 90\% do tempo da equipe ao realizar as transações.],[Desenvolvi um sistema web interno da manutenção industrial \(MVP\).],)
   ],
 )
 
@@ -530,7 +499,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Estágio de férias realizado em uma empresa metalúrgica. O principal produto desenvolvido pela empresa é a sonda oblíqua, usada para coletar amostras de cana-de-açúcar. Atuei no time de engenharia com detalhamentos e modelagem de peças referente aos projetos  de sondas, esteiras, desintegradores e outros produtos.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem 3D],[Detalhamento de peças],[Acompanhamento de produção das peças],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Realizei adequações de projetos para clientes, desde a concepção, detalhamento e acompanhamento da produção.],)
   ],
 )
 
@@ -551,8 +520,37 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A empresa tem como objetivo não só ter um primeiro contato com o mundo empresarial, mas também despertar o desejo de empreender nos membros. As atuações principais eram a venda de serviços de engenharia mecânica, como projetos mecânicos, PMOC, ensaios, etc. Atuei principalmente nas áreas administrativas e jurídicas da empresa.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Operações financeiras e jurídicas],[Operações de Recursos Humanos],[Desenvolvimento de processos seletivos],[Assistência na transição entre diretorias],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Participei do desenvolvimento do processo seletivo do ano de 2020, em conjunto com a equipe de Gestão de Pessoas.],[Elaborei documentos referentes à área jurídica e financeira.],)
   ],
+)
+
+
+
+== Educação
+
+
+// YES DATE, NO DEGREE
+#two-col-entry(
+  left-content: [
+    #strong[Universidade Estadual Paulista \(UNESP\)]
+
+#emph[Bacharelado em Engenharia Mecânica]
+  ],
+  right-content: [
+    #emph[Ilha Solteira, SP, Brasil]
+
+#emph[Ago 2018 – Dez 2024]
+  ],
+)
+#block(
+  [
+    #set par(spacing: 0pt)
+    
+  ],
+  inset: (
+    left: design-entries-left-and-right-margin,
+    right: design-entries-left-and-right-margin,
+  ),
 )
 
 
@@ -565,9 +563,7 @@
     #strong[Análise do Impacto de Diferentes Modelos de CFD em Parâmetros Aerodinâmicos Uma Abordagem Comparativa dos Resultados Numéricos]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Este projeto é o Trabalho de Conclusão de Curso. Nele, foi investigado o impacto de modelos transicionais em relação a modelos turbulentos em escoamentos em um perfil NACA. Diversas simulações em diferentes condições foram realizadas e os resultados comparados entre si e com dados experimentais.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Escoamento transicional \(laminar-turbulento\)],[Escoamento compressível],[Modelagem matemática],[Equações RANS],[OpenFOAM],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Trabalho de Conclusão de Curso. Orientador: Aluisio Viais Pantaleão])], column-gutter: 0cm)
   ],
   right-content: [
     #emph[Botucatu, SP]
@@ -582,9 +578,7 @@
     #strong[Forecasting Embraer's Electrical Energy Consumption: A Prototype Using Machine Learning Techniques]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A pesquisa é parte do Seminário Embraer de Tecnologia e Inovação e tinha como princpal obejtivo prever o consumo de energia elétrica nos sites da Embraer atrvés do plano de produção. Por altoritmos de machine learning, foi desenvolvido um modelo embrionário, mas eficaz, capaz de prever o consumo mensal de energia elétrica para o site de Botucatu. O modelo tem potencial de ser expandido ao longo de todos os sites da Embraer.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Análise estatística],[Previsão baseada no plano de produção],[Potencial redução de custos],[Modelagem através de algoritmos de Machine Learning],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Trabalho apresentado no Seminário Embraer de Tecnologia e Inovação \(SETI\).])], column-gutter: 0cm)
   ],
   right-content: [
     #emph[Botucatu, SP]
@@ -599,9 +593,7 @@
     #strong[Artificial Neural Networks applied to Unmanned Aerial Vehicle Control]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A pesquisa visa obter um modelo de rede neural artificial \(ANN\) para prever as forças a serem aplicadas em VANTs \(Veículos Aéreos Não Tripulados\) baseado na trajetória a ser percorrida. O projeto consistiu em treinar ANNs com um conjunto de amostras para prever as forças aplicadas no UAV, avaliando a capacidade das redes em acompanhar a trajetória desejada. Os resultados mostraram que, mesmo com uma arquitetura básica e poucos dados, as ANNs conseguiram predizer padrões satisfatórios de força, contribuindo para o controle efetivo do voo, podendo auxiliar no desenvolvimento de sistemas de voos autônomos.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de redes neurais artificiais],[Técnicas de machine learning],[Controle de VANTs],[Programação em Python com ênfase em ciência de dados],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Iniciação Científica. Orientador: Douglas D. Bueno. Financiamento: CNPq])], column-gutter: 0cm)
   ],
   right-content: [
     #emph[Ilha Solteira, SP]
@@ -616,9 +608,7 @@
     #strong[Determinação da Velocidade de Tráfego após Colisão de Automóveis: Influência dos Parâmetros]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A pesquisa é parte de uma demanda da Polícia Científica do Estado de São Paulo,com foco em verificar a capacidade de se determinar a velocidade de tráfego de veículos a partirde informações que podem ser coletadas por peritos após a colisão. A modelagem emprega umaabordagem Newtoniana, considerando a conservação de momento linear. A velocidade de tráfego éescrita em termos de características dos veículos, da desaceleração em função das forças de frenagem,e das distâncias percorridas. Simulações computacionais foram realizadas para calcular a velocidade detráfego de automóveis após a colisão, considerando a influência de incertezas.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Modelagem de Sistemas],[Dinâmica Veicular],[Engenharia Reversa],[Resolução de Acidentes de Trânsito],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Iniciação Científica. Orientador: Douglas D. Bueno. Financiamento: PIBIC])], column-gutter: 0cm)
   ],
   right-content: [
     #emph[Ilha Solteira]
@@ -633,19 +623,19 @@
 
 
 #one-col-entry(
-  content: [#strong[Programação:] Proficiência em Python, com análise\/ciência de dados \(Pandas, Scikit-Learn, PyTorch, Dash Plotly\) e desenvolvimento web \(Django\); ótimo entendimento de Linux e Git]
+  content: [#strong[Programação:] 6 anos de experiência com Python \(Pandas, PyTorch, Plotly e Django\); 5 anos de experiência com Linux]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Ferramentas de produtividade:] ótimo conhecimeto em ferramentas Office \(Office 365 e LibreOffice\), proficiente em LaTeX para produção de relatórios e documentos científicos]
+  content: [#strong[Ferramentas e Softwares:] 2 anos de experiência com SAP; 3 anos de experiência com ferramentas Office \(Office 365 e LibreOffice\); 6 anos de experiência com LaTeX]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Engenharia:] Bom entendimento de ferramentas CAD 3D e workflow com simulações de CFD \(geração de malha, pré e pós processamento\); bom entendimento de softwares de fluidodinâmica computacional \(OpenFOAM\)]
+  content: [#strong[Engenharia:] 1 ano de experiência com ferramentas CAD 3D \(SolidWorks e FreeCAD\); 1 ano de experiência com OpenFOAM]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Idiomas:] Inglês \(C1\), Português \(nativo\)]
+  content: [#strong[Idiomas:] Inglês \(C1\)]
 )
 
 

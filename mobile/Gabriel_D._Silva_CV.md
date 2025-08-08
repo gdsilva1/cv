@@ -7,43 +7,37 @@
 - GitHub: [gdsilva1](https://github.com/gdsilva1)
 
 
-# Educação
-
-## Universidade Estadual Paulista (UNESP), Bacharelado in Engenharia Mecânica
-
-- Ago 2018 – hoje
-- Ilha Solteira, SP, Brasil
-
 # Experiência
 
 ## Embraer SA, Estagiário de Manutenção Industrial
 
 - Jan 2024 – hoje
 - Botucatu, SP, Brasil
-- Gestão de contratos
-- Implantação de contratos
-- Análise de dados de manutenção
-- Visualização de dados (dashboards)
-- Automatização de processos com Python (RPAs)
-- Desenvolvimento de aplicativos web para gestão interna (Django e Dash Plotly)
-- Desenvolvimento de métricas de KPIs de Manutenção
+- Elaborei o dashboard de controle e visibilidade da implantação dos contratos de manutenção.
+- Mapeei ações necessárias para implantação de contratos; esta ação desdobrou em um checklist completo para controle da implantação dos contratos.
+- Participei estrategicamente na definição das métricas utilizadas na manutenção.
+- Desenvolvi automatizações no SAP que permitiram a economia de mais de 90% do tempo da equipe ao realizar as transações.
+- Desenvolvi um sistema web interno da manutenção industrial (MVP).
 
 ## IRBI Máquinas e Equipamentos, Estagiário de Projetos de Máquinas
 
 - Jan 2023 – Fev 2023
 - Araçatuba, SP, Brasil
-- Modelagem 3D
-- Detalhamento de peças
-- Acompanhamento de produção das peças
+- Realizei adequações de projetos para clientes, desde a concepção, detalhamento e acompanhamento da produção.
 
 ## Precisão Engenharia, Assessor da Vice-Presidência
 
 - Mar 2020 – Mar 2021
 - Ilha Solteira, SP, Brasil
-- Operações financeiras e jurídicas
-- Operações de Recursos Humanos
-- Desenvolvimento de processos seletivos
-- Assistência na transição entre diretorias
+- Participei do desenvolvimento do processo seletivo do ano de 2020, em conjunto com a equipe de Gestão de Pessoas.
+- Elaborei documentos referentes à área jurídica e financeira.
+
+# Educação
+
+## Universidade Estadual Paulista (UNESP), Bacharelado in Engenharia Mecânica
+
+- Ago 2018 – Dez 2024
+- Ilha Solteira, SP, Brasil
 
 # Projetos
 
@@ -51,42 +45,25 @@
 
 - Ago 2024 – hoje
 - Botucatu, SP
-- Escoamento transicional (laminar-turbulento)
-- Escoamento compressível
-- Modelagem matemática
-- Equações RANS
-- OpenFOAM
 
 ## Forecasting Embraer's Electrical Energy Consumption: A Prototype Using Machine Learning Techniques
 
 - Mar 2024 – Set 2024
 - Botucatu, SP
-- Análise estatística
-- Previsão baseada no plano de produção
-- Potencial redução de custos
-- Modelagem através de algoritmos de Machine Learning
 
 ## Artificial Neural Networks applied to Unmanned Aerial Vehicle Control
 
 - Abr 2023 – Set 2023
 - Ilha Solteira, SP
-- Modelagem de redes neurais artificiais
-- Técnicas de machine learning
-- Controle de VANTs
-- Programação em Python com ênfase em ciência de dados
 
 ## Determinação da Velocidade de Tráfego após Colisão de Automóveis: Influência dos Parâmetros
 
 - Set 2021 – Set 2022
 - Ilha Solteira
-- Modelagem de Sistemas
-- Dinâmica Veicular
-- Engenharia Reversa
-- Resolução de Acidentes de Trânsito
 
 # Habilidades
 
-- Programação: Proficiência em Python, com análise/ciência de dados (Pandas, Scikit-Learn, PyTorch, Dash Plotly) e desenvolvimento web (Django); ótimo entendimento de Linux e Git.
-- Ferramentas de produtividade: ótimo conhecimeto em ferramentas Office (Office 365 e LibreOffice), proficiente em LaTeX para produção de relatórios e documentos científicos.
-- Engenharia: Bom entendimento de ferramentas CAD 3D e workflow com simulações de CFD (geração de malha, pré e pós processamento); bom entendimento de softwares de fluidodinâmica computacional (OpenFOAM)
-- Idiomas: Inglês (C1), Português (nativo)
+- Programação: 6 anos de experiência com Python (Pandas, PyTorch, Plotly e Django); 5 anos de experiência com Linux.
+- Ferramentas e Softwares: 2 anos de experiência com SAP; 3 anos de experiência com ferramentas Office (Office 365 e LibreOffice); 6 anos de experiência com LaTeX.
+- Engenharia: 1 ano de experiência com ferramentas CAD 3D (SolidWorks e FreeCAD); 1 ano de experiência com OpenFOAM;
+- Idiomas: Inglês (C1)
